@@ -1,0 +1,803 @@
+1
+00:00:00,000 --> 00:00:05,799
+welcome to school Exeter number three
+additional automation in this video we
+
+2
+00:00:05,799 --> 00:00:09,730
+look at some of the fancy important
+output to securely access gives us and
+
+3
+00:00:09,730 --> 00:00:13,099
+also will look at selection in patent
+that allows us to a conditions to
+
+4
+00:00:13,099 --> 00:00:17,329
+Asakura scripts everybody have all
+slides is anchored available no
+
+5
+00:00:17,329 --> 00:00:21,528
+description interacting with the user
+can be quite important and is a great
+
+6
+00:00:21,528 --> 00:00:25,469
+way for us to her now conditional
+automation skills you in school yikes
+
+7
+00:00:25,469 --> 00:00:29,608
+ever its previous versions is some nice
+Gy pop-ups that can give information to
+
+8
+00:00:29,609 --> 00:00:32,989
+the user or receive information from
+them
+
+9
+00:00:32,988 --> 00:00:38,509
+sex scandals this really well and is as
+simple as it gets to use alright let's
+
+10
+00:00:38,509 --> 00:00:43,179
+look at the six functions available to
+us the first three output boxes will pop
+
+11
+00:00:43,179 --> 00:00:47,140
+up which does exactly that sounds
+created dialogue with extra give it an
+
+12
+00:00:47,140 --> 00:00:52,409
+optional title as well as an OK button
+that will close it we have pop era which
+
+13
+00:00:52,409 --> 00:00:58,238
+is like a public however shows areas and
+alongside the text we then have asked
+
+14
+00:00:58,238 --> 00:01:02,959
+which is the public once again rise the
+user with a yes or no decision we can
+
+15
+00:01:02,960 --> 00:01:08,629
+then used to determine what we do from
+that the second half input pups which
+
+16
+00:01:08,629 --> 00:01:12,670
+allows to receive input from the user of
+the script the input function will give
+
+17
+00:01:12,670 --> 00:01:16,909
+a simple input box with an OK and Cancel
+buttons we can also optionally give this
+
+18
+00:01:16,909 --> 00:01:20,700
+window a prompt such as what is your
+favorite number we can also optionally
+
+19
+00:01:20,700 --> 00:01:24,519
+give it a default answer an optional
+title for the window and we can
+
+20
+00:01:24,519 --> 00:01:28,509
+optionally said hidden tutored turning
+into a possible hiding input characters
+
+21
+00:01:28,509 --> 00:01:33,560
+we then have input text which works
+similar import covers a much bigger
+
+22
+00:01:33,560 --> 00:01:36,900
+bucks and can be customized to be even
+bigger in size
+
+23
+00:01:36,900 --> 00:01:40,280
+finally we have select which is my
+personal favorite provide the public
+
+24
+00:01:40,280 --> 00:01:44,719
+with a drop down and the user can select
+from a list of options we provide such
+
+25
+00:01:44,719 --> 00:01:50,170
+as whether there was to add subtract
+multiply or divide alright let's give
+
+26
+00:01:50,170 --> 00:01:53,259
+these you are boxes are trying to get
+comfortable so we can use them later in
+
+27
+00:01:53,259 --> 00:01:59,700
+a decision-making so we come over to
+securely and let's try tried out so
+
+28
+00:01:59,700 --> 00:02:08,539
+creative a variable code name so quickly
+named I'm gonna make that echo input
+
+29
+00:02:08,538 --> 00:02:15,679
+open parenthesis in courts were gonna
+put up now text that we want to put in
+
+30
+00:02:15,680 --> 00:02:24,290
+the input sir and your name being closed
+up the quotes and closing parenthesis
+
+31
+00:02:24,289 --> 00:02:31,408
+and then let's use the pop-up
+
+32
+00:02:31,408 --> 00:02:39,218
+pop-up function in a print disease and
+we're going to acquire its color and
+
+33
+00:02:39,218 --> 00:02:47,039
+then we're going to add on the named the
+end name.com are making title the box
+
+34
+00:02:47,039 --> 00:02:50,158
+below
+
+35
+00:02:50,158 --> 00:02:54,638
+you give the national title which will
+make the proper called heller and it'll
+
+36
+00:02:54,639 --> 00:03:00,930
+say hello to the name that was ended
+previously alright let's try out input
+
+37
+00:03:00,930 --> 00:03:07,000
+text field so who do some text as a
+variable in Astoria last text
+
+38
+00:03:07,000 --> 00:03:14,979
+echo input input text with a capital T
+
+39
+00:03:14,979 --> 00:03:25,019
+pregnancies and text quotes close
+princes and then that's proper Panera
+
+40
+00:03:25,019 --> 00:03:27,579
+and will pop out the Sun text service
+
+41
+00:03:27,579 --> 00:03:42,689
+era through and apparel do close courts
+and the some tax return to the end
+
+42
+00:03:42,689 --> 00:03:49,530
+rights that should give us a good look
+of opera does right now let's try out
+
+43
+00:03:49,530 --> 00:03:56,609
+the select input type so first we need
+to create a couple of options so my
+
+44
+00:03:56,609 --> 00:04:02,099
+options can be a variable named go to
+store all in my options with heparin
+
+45
+00:04:02,098 --> 00:04:09,869
+equals open up parentheses and in courts
+which one was the first option is coming
+
+46
+00:04:09,870 --> 00:04:15,009
+to includes
+
+47
+00:04:15,009 --> 00:04:25,668
+three words for you cards come up and
+500 closed up a parenthesis and we have
+
+48
+00:04:25,668 --> 00:04:34,228
+a couple of options let's now stop the
+result of what the user pics so it is
+
+49
+00:04:34,228 --> 00:04:41,519
+going to be what these pics with the
+select dropdown because select and
+
+50
+00:04:41,519 --> 00:04:50,519
+inside the Select were going to tell
+them pick a number and then we're going
+
+51
+00:04:50,519 --> 00:05:02,459
+to set the options for a select to echo
+my options because of a parenthesis cope
+
+52
+00:05:02,459 --> 00:05:08,279
+right now we can use the Pope asked
+output and what this does is it gives
+
+53
+00:05:08,279 --> 00:05:14,079
+them a yes or no answer and we can store
+that yes or no answer inside of a
+
+54
+00:05:14,079 --> 00:05:22,750
+variable so call a verbal choice that's
+gonna equal prop ask and inside here we
+
+55
+00:05:22,750 --> 00:05:31,779
+can say did you select and then we can
+add on the number that they'd like to
+
+56
+00:05:31,779 --> 00:05:38,189
+return result a simple question mark on
+the end
+
+57
+00:05:38,189 --> 00:05:44,978
+closed off that since you asked him did
+you select the result they previously so
+
+58
+00:05:44,978 --> 00:05:52,250
+should be yes but just illustrate how it
+works in commercial pilots get the save
+
+59
+00:05:52,250 --> 00:06:00,519
+and call it an important test
+
+60
+00:06:00,519 --> 00:06:05,829
+saver and its leaders
+
+61
+00:06:05,829 --> 00:06:14,848
+runs on a popup saying enter your name
+so it's jobs ok then we get a popup that
+
+62
+00:06:14,848 --> 00:06:20,680
+says he'll address and the title of it
+is however as we set up and then we've
+
+63
+00:06:20,680 --> 00:06:31,379
+got our textbooks so this is some text
+so let's and doesn't text you today and
+
+64
+00:06:31,379 --> 00:06:36,860
+then hit enter a title he doesn't text
+
+65
+00:06:36,860 --> 00:06:43,280
+ok and we get asked all the era so this
+is now peres type says hello how are you
+
+66
+00:06:43,279 --> 00:06:48,269
+today so don't make much sense but we
+have to see how it works and then we get
+
+67
+00:06:48,269 --> 00:06:52,189
+a SELECT statements got a list of
+options
+
+68
+00:06:52,189 --> 00:06:59,930
+12345 so you can pick a number so that's
+good for me OK and then we've got asked
+
+69
+00:06:59,930 --> 00:07:08,228
+asked says did you select for a yes or
+no other than to say yes and a program
+
+70
+00:07:08,228 --> 00:07:13,500
+finishes so if we wanted to we could do
+it another popup that says whether they
+
+71
+00:07:13,500 --> 00:07:23,959
+said yes honor for the pop ask but we
+just move on from here to right now 12
+
+72
+00:07:23,959 --> 00:07:27,908
+selection I'm going to try and move over
+this pretty loudly as I did recommend
+
+73
+00:07:27,908 --> 00:07:32,759
+some basic plot no programming
+experience ok so that makes decisions we
+
+74
+00:07:32,759 --> 00:07:37,150
+use the if statement it allows it to
+check if an expression is true or false
+
+75
+00:07:37,149 --> 00:07:44,068
+if it's true we do something otherwise
+FALSE we've done important to notice the
+
+76
+00:07:44,069 --> 00:07:48,689
+palestinians intends to decide when kurt
+is inside of it if statement this could
+
+77
+00:07:48,689 --> 00:07:54,430
+be a single space just a one time with
+four as it makes it easier to read also
+
+78
+00:07:54,430 --> 00:08:03,028
+note the colon on the end of the line to
+expect intend on the next line now these
+
+79
+00:08:03,028 --> 00:08:06,110
+expressions we check result in either
+true or false
+
+80
+00:08:06,110 --> 00:08:11,218
+for this we have comparison operators we
+can check if somebody's equal or
+
+81
+00:08:11,218 --> 00:08:13,990
+something is not equal began taking
+things for granted
+
+82
+00:08:13,990 --> 00:08:19,079
+less than etcetera a place to couple of
+examples at the bottom here five is less
+
+83
+00:08:19,079 --> 00:08:23,490
+than those ten is greater than or equal
+to 10 is true
+
+84
+00:08:23,490 --> 00:08:29,790
+five is equal to one is false and you
+can solely place true or false
+
+85
+00:08:29,790 --> 00:08:33,259
+as an expression and it will work all
+right now we know how to use the if
+
+86
+00:08:33,259 --> 00:08:35,960
+statement let's look at two other
+statements that go hand in hand with
+
+87
+00:08:35,960 --> 00:08:41,759
+this statement is that on to the end of
+the F sort of the expression is church
+
+88
+00:08:41,759 --> 00:08:49,100
+do something else if it's both do this
+instead it's fairly simple finally if
+
+89
+00:08:49,100 --> 00:08:53,220
+statement the statement allows it to
+check another expression if the first
+
+90
+00:08:53,220 --> 00:08:58,180
+one was falls so if true do something
+else if this is church do something
+
+91
+00:08:58,179 --> 00:08:58,909
+different
+
+92
+00:08:58,909 --> 00:09:03,889
+house do this instead we can combine as
+many elephants in one if statement as we
+
+93
+00:09:03,889 --> 00:09:04,559
+like
+
+94
+00:09:04,559 --> 00:09:09,699
+ok now finally back to some scripting
+let's create a calculator automation
+
+95
+00:09:09,700 --> 00:09:14,240
+again this time however will ask the the
+beginning if they wish to add subtract
+
+96
+00:09:14,240 --> 00:09:19,100
+multiply or divide also to mix it up
+let's use the number five instead of one
+
+97
+00:09:19,100 --> 00:09:26,769
+right so we come back to school here and
+will create a new document includes all
+
+98
+00:09:26,769 --> 00:09:31,949
+right so we wanna ask them if they want
+to add subtract multiply and divide
+
+99
+00:09:31,950 --> 00:09:39,270
+let's special am so create a variable
+called modes not gonna equal couple of
+
+100
+00:09:39,269 --> 00:09:47,990
+of us options so I first one can be had
+for words come up and we can do some
+
+101
+00:09:47,990 --> 00:10:01,519
+clothes guards come up quotes moll
+multiply and divide words close up at
+
+102
+00:10:01,519 --> 00:10:07,149
+Apple alright so goddamn words let's now
+ask the use of what they were 11 under
+
+103
+00:10:07,149 --> 00:10:15,669
+so called a result option and options
+can echo select to any used to select
+
+104
+00:10:15,669 --> 00:10:17,528
+winner
+
+105
+00:10:17,528 --> 00:10:29,730
+what would you like to question mark and
+then passing out options is going to eat
+
+106
+00:10:29,730 --> 00:10:36,188
+cool emergence was up a parenthesis
+certainly we've got from the user book
+
+107
+00:10:36,188 --> 00:10:44,028
+what kind of action they want to do the
+arithmetic know we can continue doing
+
+108
+00:10:44,028 --> 00:10:58,259
+what we did last to do so click the Stop
+gun so let's use the Quick stopped on 70
+
+109
+00:10:58,259 --> 00:11:02,699
+could stop by them you wanna wait for
+the such but that's just copy from the
+
+110
+00:11:02,698 --> 00:11:21,058
+last the last one so it's not copy wait
+type the same copy I'll wait really
+
+111
+00:11:21,058 --> 00:11:26,278
+titled pasted in so we're going to click
+the start button
+
+112
+00:11:26,278 --> 00:11:31,679
+we're going to wait for the search
+button come up we're going to typing
+
+113
+00:11:31,679 --> 00:11:37,469
+calc and press the Enter key I'm going
+to wait for the calculator a popup once
+
+114
+00:11:37,470 --> 00:11:51,480
+calculated popped up we can click the
+five buttons copy right click
+
+115
+00:11:51,480 --> 00:12:03,820
+click out a calculator and we want to
+click click on this and target upset me
+
+116
+00:12:03,820 --> 00:12:11,350
+five button to apply ok so now we're
+cooking the five button and now we can
+
+117
+00:12:11,350 --> 00:12:14,550
+start writing out if so this is what we
+choose but we're going to add subtract
+
+118
+00:12:14,549 --> 00:12:23,629
+multiply or divide so if if option so
+the option that they use a slight to the
+
+119
+00:12:23,629 --> 00:12:32,179
+star is equal to double double equal
+sign words
+
+120
+00:12:32,179 --> 00:12:39,719
+square brackets is there a close call
+back its so if the option they selected
+
+121
+00:12:39,720 --> 00:12:47,370
+was able to the first married to weaken
+semicolon Collins aren't going to call
+
+122
+00:12:47,370 --> 00:12:54,278
+in to go down to the next line and if so
+then we're going to click and copy of
+
+123
+00:12:54,278 --> 00:13:04,789
+previous line to click and we're going
+to click on the target offset of the
+
+124
+00:13:04,789 --> 00:13:07,860
+plus symbol so we're going to add a
+reply
+
+125
+00:13:07,860 --> 00:13:17,019
+take pictures to add going to add never
+came back out to the first line and do
+
+126
+00:13:17,019 --> 00:13:22,339
+so we're going to be checking again with
+another if statement the first one was
+
+127
+00:13:22,339 --> 00:13:27,449
+full so they didn't choose I'd be going
+to check with the option is able to
+
+128
+00:13:27,448 --> 00:13:29,629
+merge
+
+129
+00:13:29,629 --> 00:13:36,309
+square bracket 100 square bracket so the
+first murder was to see the secondary
+
+130
+00:13:36,309 --> 00:13:44,119
+technically mister subtract in person
+and i click here and pick a target of
+
+131
+00:13:44,120 --> 00:13:52,769
+said instead of trust this time it's
+entrapped apply okay and then
+
+132
+00:13:52,769 --> 00:14:02,328
+do one more else is equal to the Marines
+
+133
+00:14:02,328 --> 00:14:09,969
+square bracket to cause we're back and
+we're going to click and this time we're
+
+134
+00:14:09,970 --> 00:14:16,410
+going to be clicking the multiplier
+because we did add subtract multiply and
+
+135
+00:14:16,409 --> 00:14:17,629
+divide
+
+136
+00:14:17,629 --> 00:14:27,329
+target offset this time is for you
+multiply 15 ok all right and now we need
+
+137
+00:14:27,328 --> 00:14:32,729
+to have one moment is gonna be out this
+time so if every other option is false
+
+138
+00:14:32,730 --> 00:14:40,069
+then they must have chosen the divide
+button so else colon in place now
+
+139
+00:14:40,068 --> 00:14:47,708
+quickly and this time we're going to
+start offset to the divide simple y ok
+
+140
+00:14:47,708 --> 00:14:52,808
+right so now we've got out if statements
+are based on what the user selected this
+
+141
+00:14:52,808 --> 00:14:59,318
+time we're going to either add subtract
+multiply or divide if it is finished
+
+142
+00:14:59,318 --> 00:15:03,969
+running we're going to eat five button
+again outside of a sore back on the
+
+143
+00:15:03,970 --> 00:15:12,749
+first line 59 rather upset 25 again he
+got there because I copied that previous
+
+144
+00:15:12,749 --> 00:15:20,459
+previous five calculation 5 click
+another and then we're going to equal
+
+145
+00:15:20,458 --> 00:15:30,048
+sign us up said i target all set to the
+equal sign apply ok we're going to
+
+146
+00:15:30,048 --> 00:15:34,730
+seventeen lines of code you can save
+this so safe and this time we'll call it
+
+147
+00:15:34,730 --> 00:15:42,058
+felt to a second revision can't save it
+and then let's give it a shot so we're
+
+148
+00:15:42,058 --> 00:15:47,458
+going to set up a merge and asked him
+which murdered like I'm going to run the
+
+149
+00:15:47,458 --> 00:15:54,568
+script was given a shot what would you
+like to do add subtract multiply divide
+
+150
+00:15:54,568 --> 00:16:05,159
+let's go with multiple ok to take over
+but couldn't find the image to the stop
+
+151
+00:16:05,159 --> 00:16:06,110
+on
+
+152
+00:16:06,110 --> 00:16:40,920
+down now seems to be struggling to find
+stop its remove stop by before Markakis
+
+153
+00:16:40,919 --> 00:16:53,620
+we know that works as the back in
+multiple I K
+
+154
+00:16:53,620 --> 00:17:02,490
+found a stop on typing calculator
+calculator five times five equals 25
+
+155
+00:17:02,490 --> 00:17:08,720
+program work correctly I was struggling
+to match that's not my name is too
+
+156
+00:17:08,720 --> 00:17:15,360
+sensitive and it's happening again this
+time we want to attract ok runs
+
+157
+00:17:15,359 --> 00:17:29,509
+calculator 5-5 equals zero there and
+Moshe will track the divide so this is
+
+158
+00:17:29,509 --> 00:17:43,919
+an hour else statement ok morning
+occurred 5/5 he calls to be 11 cool
+
+159
+00:17:43,919 --> 00:17:46,400
+after working correctly
+
+160
+00:17:46,400 --> 00:17:50,929
+ok that's it for this video we can now
+make choices that interact with the use
+
+161
+00:17:50,929 --> 00:17:54,080
+of this would become a necessity in the
+upcoming videos
+
+162
+00:17:54,079 --> 00:17:57,339
+the next thing we'll be looking at is
+looping automation you have any
+
+163
+00:17:57,339 --> 00:18:00,159
+questions leave it in the comments and
+I'll try to answer as best possible
+
+164
+00:18:00,160 --> 00:18:02,900
+don't forget to subscribe thanks for
+watching

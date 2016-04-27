@@ -1,0 +1,582 @@
+chetvertee video
+=================================
+1
+00:00:00,000 --> 00:00:05,509
+welcome to school the Exeter number for
+additional living in this video we
+
+2
+00:00:05,509 --> 00:00:09,859
+looking at repeat tasks and automating
+definitely extremely useful for making
+
+3
+00:00:09,859 --> 00:00:15,138
+box for games or pitting mundane tasks
+everybody all sliders anchored available
+
+4
+00:00:15,138 --> 00:00:19,489
+no description but start with a couple
+of nice features that collects has to
+
+5
+00:00:19,489 --> 00:00:19,989
+offer
+
+6
+00:00:19,989 --> 00:00:24,368
+first we have global hotkeys we can
+listen for a certain hockey press to
+
+7
+00:00:24,368 --> 00:00:28,099
+change without script is doing or about
+automation is running indefinitely and
+
+8
+00:00:28,099 --> 00:00:34,070
+we wanted to stop TX also provides us
+with a large number of settings to
+
+9
+00:00:34,070 --> 00:00:38,488
+modify the behavior school TX the main
+settings you may want to use his
+
+10
+00:00:38,488 --> 00:00:42,439
+movements delay which is the time taken
+to move from the current mouse position
+
+11
+00:00:42,439 --> 00:00:50,250
+to the next mouse position but if this
+is half a second or 0.5% scan rate which
+
+12
+00:00:50,250 --> 00:00:54,558
+is the amount of time between each
+screens can for functions like white but
+
+13
+00:00:54,558 --> 00:01:00,409
+a photo checks about three times a
+second and the labor for mass down which
+
+14
+00:01:00,409 --> 00:01:05,088
+is the time before a massive clicked
+after moving to a quick location by the
+
+15
+00:01:05,088 --> 00:01:09,950
+photo it's half a second heavyset is
+very 20 it will only be instant on the
+
+16
+00:01:09,950 --> 00:01:13,840
+next click it will then reset back to
+hospice second if you want to continue
+
+17
+00:01:13,840 --> 00:01:21,118
+having a fast clip repeatedly said this
+20 alright the folder the folder be used
+
+18
+00:01:21,118 --> 00:01:26,250
+to repeat kurd a specific number of
+times this could be a set number like 50
+
+19
+00:01:26,250 --> 00:01:31,118
+all the items in a list in these two
+examples we fest repeat some task five
+
+20
+00:01:31,118 --> 00:01:37,140
+times and in the second example we click
+H patent in the list let's continue with
+
+21
+00:01:37,140 --> 00:01:41,810
+a calculator automation environment and
+create a script that adds 15 times with
+
+22
+00:01:41,810 --> 00:01:48,509
+a folder with a modified his father in
+our next example alright let's come over
+
+23
+00:01:48,509 --> 00:01:56,170
+to suck oily alright so that's come over
+to securely and will copy lol original
+
+24
+00:01:56,170 --> 00:02:08,709
+data card we really need to copy is fast
+is fast 34 sorry copy paste right so the
+
+25
+00:02:08,709 --> 00:02:13,319
+first thing we want to do is try setting
+our master latest on defense
+
+26
+00:02:13,318 --> 00:02:24,888
+your settings and turn red with a
+capital S dog move math delay with each
+
+27
+00:02:24,889 --> 00:02:28,709
+word that in the capital we want to make
+that a goal to something different so
+
+28
+00:02:28,709 --> 00:02:34,989
+what we do is we could set that 20 and
+this means that all it'll move instantly
+
+29
+00:02:34,989 --> 00:02:38,900
+across the screen you won't even see it
+moves so you could make it must lower so
+
+30
+00:02:38,900 --> 00:02:44,340
+he could set to say one take one second
+to move between each post on the screen
+
+31
+00:02:44,340 --> 00:02:52,090
+let's try 144 shop right let's create a
+helpful at this time so we're going to
+
+32
+00:02:52,090 --> 00:03:05,519
+fall step in range open parenthesis 5
+close parenthesis callin callin once
+
+33
+00:03:05,519 --> 00:03:09,859
+again indicates that we're gonna go and
+indent 1 so everything that's intended
+
+34
+00:03:09,859 --> 00:03:15,659
+is going to get repeated alright so what
+we're going to do is going to click +
+
+35
+00:03:15,658 --> 00:03:21,568
+and one so actually what we want to do
+before this is when I click 14 we do
+
+36
+00:03:21,568 --> 00:03:34,388
+anything to copy this place down to
+click and when I said its target offset
+
+37
+00:03:34,389 --> 00:03:46,449
+214 I came and we can copy this whole
+line here is we gon be using it a couple
+
+38
+00:03:46,449 --> 00:03:52,359
+times and pasted inside a folder and
+want to change the target all set in
+
+39
+00:03:52,359 --> 00:04:04,099
+this one to the possible but OK and then
+on our next line inside of a fully we're
+
+40
+00:04:04,098 --> 00:04:10,339
+going to click one button again so we're
+going to click on an entire fall it
+
+41
+00:04:10,340 --> 00:04:16,319
+would be a plus one plus one plus one
+plus one extra as many times in our
+
+42
+00:04:16,319 --> 00:04:21,968
+range alright so once we're done with
+all those places we're going to come
+
+43
+00:04:21,968 --> 00:04:26,709
+outside of a fully and we're going to
+click the equal sign
+
+44
+00:04:26,709 --> 00:04:36,329
+get a final answer all set and gonna be
+equal sign fly ok right so now we've got
+
+45
+00:04:36,329 --> 00:04:42,089
+a new program so we set out on mountain
+move mouse to lay off to a better start
+
+46
+00:04:42,089 --> 00:04:48,299
+out for everything and move it normal
+pace like before until we get to a
+
+47
+00:04:48,300 --> 00:04:51,329
+folder and everything will slow down so
+you can see it repeating over and over
+
+48
+00:04:51,329 --> 00:04:59,279
+again and actually what we can do is we
+could move this will put at the start
+
+49
+00:04:59,279 --> 00:05:04,989
+about document will leave one that and
+another one at the top of the document
+
+50
+00:05:04,990 --> 00:05:10,900
+will make it instant actually no one
+that will make it instant once we're
+
+51
+00:05:10,899 --> 00:05:15,329
+doing our calculations so we've got to
+see the mass moving really slow there's
+
+52
+00:05:15,329 --> 00:05:22,120
+a quick stop such as and then moves on
+to the calculated Press 1980 really fast
+
+53
+00:05:22,120 --> 00:05:29,110
+growing 00 well sorry one plus one plus
+one equals like a cold so let's say this
+
+54
+00:05:29,110 --> 00:05:38,669
+this time we'll call this one calc three
+and save i think is that right
+
+55
+00:05:38,668 --> 00:05:45,758
+let's give it a run run it'll move
+really slowly quick start calc really
+
+56
+00:05:45,759 --> 00:05:49,819
+slowly back over to the bond that really
+quickly and you can see just jumping
+
+57
+00:05:49,819 --> 00:05:55,860
+straight between the two and repeated
+five times to get six for the first time
+
+58
+00:05:55,860 --> 00:06:04,460
+then added 15 times and hit a cozy up
+six so far it's working correctly it
+
+59
+00:06:04,459 --> 00:06:14,598
+repeated five times never took it while
+lives the Wallabies used for repeating a
+
+60
+00:06:14,598 --> 00:06:17,339
+block of code until a boolean expression
+is false
+
+61
+00:06:17,339 --> 00:06:20,689
+so while the expression is true keep
+repeating occurred
+
+62
+00:06:20,689 --> 00:06:25,529
+it's pretty simple commonly we use this
+with the exists function as a returns
+
+63
+00:06:25,529 --> 00:06:31,329
+true or false even image exists right
+but more of a script to repeat in the
+
+64
+00:06:31,329 --> 00:06:35,408
+add one forever and stop running the
+script when we pass a global hotkey
+
+65
+00:06:35,408 --> 00:06:40,180
+alright so come back over and we heard
+in writing
+
+66
+00:06:40,180 --> 00:06:53,500
+and we will remove a mass amounts to lay
+just leave it as the default of 0.5% up
+
+67
+00:06:53,500 --> 00:06:55,250
+a global hotkey
+
+68
+00:06:55,250 --> 00:06:58,060
+to do this we're going to keep
+everything we got here but we're gonna
+
+69
+00:06:58,060 --> 00:06:59,970
+get down a bit
+
+70
+00:06:59,970 --> 00:07:06,100
+we're going to create a boolean variable
+cold running third called running and
+
+71
+00:07:06,100 --> 00:07:10,050
+it's gonna equal true capital T
+
+72
+00:07:10,050 --> 00:07:17,870
+so yes a program is running right now
+we're going to define a function so it's
+
+73
+00:07:17,870 --> 00:07:22,629
+time to get a little bit more into the
+advanced programming him but essentially
+
+74
+00:07:22,629 --> 00:07:27,060
+it's we use the death keywords to find a
+function which is a block of cards we
+
+75
+00:07:27,060 --> 00:07:36,639
+want to run and will call it run cookie
+and inside there were going to passing
+
+76
+00:07:36,639 --> 00:07:44,740
+the event and this is what is passed in
+by a hot key binding so you can use it
+
+77
+00:07:44,740 --> 00:07:49,478
+if you wish but we're not going to be
+using the event bearable ok so inside a
+
+78
+00:07:49,478 --> 00:08:02,319
+function we're going to go about global
+global variable running and we're going
+
+79
+00:08:02,319 --> 00:08:10,019
+to set running to echo the capital F so
+this is when this current runs were
+
+80
+00:08:10,019 --> 00:08:14,728
+going to stop the program and the reason
+we need this is for our next lines
+
+81
+00:08:14,728 --> 00:08:19,329
+outside of our function we're going to
+use env for environment which will turn
+
+82
+00:08:19,329 --> 00:08:29,538
+red dot had in lowercase capital hates
+the hotkey
+
+83
+00:08:29,538 --> 00:08:34,490
+been currencies and the key we're going
+to listen which can be anything you like
+
+84
+00:08:34,490 --> 00:08:43,479
+but I'm going to use key don't f 12 the
+f1 key and key modifier is going to be
+
+85
+00:08:43,479 --> 00:08:49,920
+the Ctrl key so we're gonna have to hold
+control and then press f1 key
+
+86
+00:08:49,919 --> 00:09:02,328
+modified modifier to turn red as well
+don't control ctrl capitals come up and
+
+87
+00:09:02,328 --> 00:09:11,819
+then we're going to run the function Ron
+what key close up a parenthesis alright
+
+88
+00:09:11,820 --> 00:09:18,220
+so whenever we passed that that hockey
+f1 Kontrol f1 it will do our run hockey
+
+89
+00:09:18,220 --> 00:09:22,028
+function so tell running to be false
+
+90
+00:09:22,028 --> 00:09:29,139
+all right now it's set up a hooky we can
+come down to a look
+
+91
+00:09:29,139 --> 00:09:36,278
+gonna leave everything else is it is
+going to calculate and what we'll do is
+
+92
+00:09:36,278 --> 00:09:40,820
+let's remove this one originally so it
+doesn't actually click one to start with
+
+93
+00:09:40,820 --> 00:09:48,440
+and instead of 40 gonna do is going to
+have a while so we can remove this for
+
+94
+00:09:48,440 --> 00:09:55,850
+him and instead we're going to have a
+while in lowercase exists so we're going
+
+95
+00:09:55,850 --> 00:10:03,350
+to use the exists function and while
+exists and that calculator so I
+
+96
+00:10:03,350 --> 00:10:18,560
+calculated from up here but I think
+while exists calculator and running
+
+97
+00:10:18,559 --> 00:10:24,588
+calculator is on screen
+
+98
+00:10:24,589 --> 00:10:34,899
+currently running we're going to keep
+adding alright so that's really all we
+
+99
+00:10:34,899 --> 00:10:38,399
+need to change that while it is
+repeating just like a full of is by
+
+100
+00:10:38,399 --> 00:10:46,700
+adding one and he set up to tell running
+to stop being church which using the end
+
+101
+00:10:46,700 --> 00:10:54,350
+keyword it will cancel out is this still
+exists but I running doesn't so that
+
+102
+00:10:54,350 --> 00:11:04,580
+both not sure and it will accept a
+program an idol for us ok so let's save
+
+103
+00:11:04,580 --> 00:11:13,050
+and give it a shot so would you choose
+
+104
+00:11:13,049 --> 00:11:25,039
+run stock coke plus one and it will keep
+going indefinitely you sit here and
+
+105
+00:11:25,039 --> 00:11:34,789
+watch it as long as we like to keep
+adding some past five and he's going on
+
+106
+00:11:34,789 --> 00:11:51,029
+40 and then we can hold a control key
+press f1 and Kansas and its 1000 work
+
+107
+00:11:51,029 --> 00:12:01,629
+successfully ok just to keep in mind and
+watch out for 60 you lou has a way to
+
+108
+00:12:01,629 --> 00:12:06,129
+stop getting stuck in an infinite loop
+which can be painful as it has control
+
+109
+00:12:06,129 --> 00:12:10,000
+over your mouth and sometimes your
+keyboard try to avoid it with things
+
+110
+00:12:10,000 --> 00:12:14,580
+like a hockey like in our example or
+using the exists function on a window
+
+111
+00:12:14,580 --> 00:12:18,000
+that can be all effort to be closed
+
+112
+00:12:18,000 --> 00:12:22,799
+also there's lots of visuals changing
+remember to use the white or exists to
+
+113
+00:12:22,799 --> 00:12:27,500
+be certain things you want to click is
+actually visible ok that's it for this
+
+114
+00:12:27,500 --> 00:12:32,210
+video we can now repeat task and use
+global hotkeys in the next video will be
+
+115
+00:12:32,210 --> 00:12:36,139
+putting everything together to create a
+simple automation scripts that will play
+
+116
+00:12:36,139 --> 00:12:39,659
+the free click again clicking heroes you
+have any questions leave it in the
+
+117
+00:12:39,659 --> 00:12:43,269
+comments and I'll try to answer as best
+as possible don't forget to subscribe
+
+118
+00:12:43,269 --> 00:12:44,269
+thanks for watching

@@ -1,0 +1,1189 @@
+pyATEE VIDEO
+1
+00:00:00,000 --> 00:00:06,190
+reacts to tour number five game example
+in this video will create a simple
+
+2
+00:00:06,190 --> 00:00:10,289
+automation scripts to play the game
+quickly heroes I picked this game
+
+3
+00:00:10,289 --> 00:00:14,689
+because smaller download on Steam or
+even played a browser it's also fairly
+
+4
+00:00:14,689 --> 00:00:18,649
+simple to understand the basics
+everybody have all slideshows anchored
+
+5
+00:00:18,649 --> 00:00:23,219
+available in the description before we
+start important to talk about the low
+
+6
+00:00:23,219 --> 00:00:27,799
+level interaction functions physically X
+this is important because when you click
+
+7
+00:00:27,800 --> 00:00:31,560
+faster than the Cliq function can but we
+may as well look at other low-level
+
+8
+00:00:31,559 --> 00:00:33,689
+functions are available
+
+9
+00:00:33,689 --> 00:00:37,808
+mass down but so click down the
+specified button mouse up which have a
+
+10
+00:00:37,808 --> 00:00:43,738
+button is specified will unlock the bun
+no bun specified all buttons mouse move
+
+11
+00:00:43,738 --> 00:00:47,718
+will move the mouse to a specified place
+in a patent for a location or
+
+12
+00:00:47,719 --> 00:00:52,640
+alternatively a specific place from its
+composition specified as an X&Y offset
+
+13
+00:00:52,640 --> 00:00:57,989
+we hope will scroll the mouse within a
+specified patent or location either up
+
+14
+00:00:57,988 --> 00:01:03,358
+or down and takes a number of steps on
+the mouse with scroll down works just
+
+15
+00:01:03,359 --> 00:01:06,850
+like mass down however you can also put
+a list of buttons to press down at time
+
+16
+00:01:06,849 --> 00:01:12,030
+t up actually takes a key goal list of
+case if not specified Okies are the
+
+17
+00:01:12,030 --> 00:01:15,269
+least important to keep in mind
+
+18
+00:01:15,269 --> 00:01:19,060
+automation is a very iterative process
+that often have to tweak and pull your
+
+19
+00:01:19,060 --> 00:01:22,909
+script in different directions to combat
+unforeseen issues such as the tooltip
+
+20
+00:01:22,909 --> 00:01:26,590
+that appears after the masses been
+hovering over bun may throw your image
+
+21
+00:01:26,590 --> 00:01:30,689
+recognition of the key thing to remember
+is don't get to enjoy the script doesn't
+
+22
+00:01:30,688 --> 00:01:37,139
+work try or even on the 10th try alright
+let's get into the example we won't be
+
+23
+00:01:37,140 --> 00:01:40,939
+spending hours on the script so well on
+the ultimate three aspects of the game
+
+24
+00:01:40,938 --> 00:01:44,250
+clicking the monsters upgrading heroes
+and moving on to the next time
+
+25
+00:01:44,250 --> 00:01:51,549
+alright so to come over to have a look
+at how it works so this is the basic
+
+26
+00:01:51,549 --> 00:01:56,960
+game starts when you create a new game
+of sixty years on the right here we have
+
+27
+00:01:56,959 --> 00:02:00,779
+the little monsters that you click into
+damage to a new click them in their
+
+28
+00:02:00,780 --> 00:02:04,960
+health goes down and when they die you
+pick up goals you can spend that golden
+
+29
+00:02:04,959 --> 00:02:10,679
+upgrades which is your heroes over here
+on the left which will respond and
+
+30
+00:02:10,679 --> 00:02:13,000
+continue cooking
+
+31
+00:02:13,000 --> 00:02:20,389
+plating gold and then spending their own
+your heroes are killed five year i mean
+
+32
+00:02:20,389 --> 00:02:24,739
+say that an upgrade becomes available
+over here and you can click on that and
+
+33
+00:02:24,740 --> 00:02:28,260
+a lot of great and then you start doing
+more damage than I'm going to damage
+
+34
+00:02:28,259 --> 00:02:34,269
+Berkeley and this continues until all of
+the monsters in the zone have been
+
+35
+00:02:34,270 --> 00:02:41,969
+killed so here we have a doubt 1010 1010
+area complete seeking continue doing
+
+36
+00:02:41,969 --> 00:02:48,129
+things here if you want to move on to
+the next Sun indexes and provides strong
+
+37
+00:02:48,129 --> 00:02:59,280
+enemies and moco drops so you continue
+collecting gold and leveling up yours is
+
+38
+00:02:59,280 --> 00:03:10,629
+continues on as you can see it's quite a
+repetitive task until all of the enemies
+
+39
+00:03:10,629 --> 00:03:19,729
+in these aren't I killed and then we can
+move on to the next one to notice that
+
+40
+00:03:19,729 --> 00:03:23,560
+when those enemies in a baby killed
+there's this little skull icon here with
+
+41
+00:03:23,560 --> 00:03:27,549
+a zero to 10 which will come in handy
+for knowing when way we can move on to
+
+42
+00:03:27,549 --> 00:03:32,469
+the next on show in a zone what we've
+completed there's no school and when we
+
+43
+00:03:32,469 --> 00:03:42,000
+can upgrade the icons this light blue
+over this doctor alright so now that we
+
+44
+00:03:42,000 --> 00:03:42,810
+know how it works
+
+45
+00:03:42,810 --> 00:03:48,469
+let's give it a reset and will start
+running out for alright cool
+
+46
+00:03:48,469 --> 00:03:54,469
+ok the first thing I want to do is to
+make a certain amount has not moved away
+
+47
+00:03:54,469 --> 00:04:04,210
+so we're going to care settings don't
+move mouse to play
+
+48
+00:04:04,210 --> 00:04:10,790
+equal to zero points there is no delay
+and I'm gonna create a running variable
+
+49
+00:04:10,789 --> 00:04:17,449
+which I'm gonna title hot cake n ice
+cube is running running equals true
+
+50
+00:04:17,449 --> 00:04:23,670
+capital T and when I create some
+variables to keep track of things that
+
+51
+00:04:23,670 --> 00:04:34,810
+are happening in game so let's have a
+should click says he gonna be the number
+
+52
+00:04:34,810 --> 00:04:40,530
+of clicks to do before we check if there
+needs to be any upgrades done let's have
+
+53
+00:04:40,529 --> 00:04:49,049
+a should should I upgrade there's gonna
+be a true when we went to operate but
+
+54
+00:04:49,050 --> 00:04:53,040
+for those that off as false as there
+isn't anything to upgrade when the game
+
+55
+00:04:53,040 --> 00:05:02,040
+starts and we'll have a variable called
+time to bed which will keep track of how
+
+56
+00:05:02,040 --> 00:05:08,640
+many upgrades that we can do before we
+can't do any upgrades so this will keep
+
+57
+00:05:08,639 --> 00:05:13,459
+track of loosely keep track of how fast
+we're killing things and whether we
+
+58
+00:05:13,459 --> 00:05:24,000
+should move up to the next area most of
+that off with alright so now let's
+
+59
+00:05:24,000 --> 00:05:39,189
+define a hotkey callback functions death
+run cookie and we pass in the event you
+
+60
+00:05:39,189 --> 00:05:48,790
+want how global running and we want to
+set running to the cool false
+
+61
+00:05:48,790 --> 00:05:53,720
+capital F ok now if created a Kovach
+let's
+
+62
+00:05:53,720 --> 00:05:57,010
+ok environment env
+
+63
+00:05:57,009 --> 00:06:07,920
+had what key and we're going to the key
+. f1 again same as last time an alchy
+
+64
+00:06:07,920 --> 00:06:13,340
+modifier going to be control again
+
+65
+00:06:13,339 --> 00:06:23,849
+easy to use and then have functions are
+run but he added that lets get how
+
+66
+00:06:23,850 --> 00:06:30,210
+quickly here as winter so to do this we
+gonna use a new function codes which apt
+
+67
+00:06:30,209 --> 00:06:34,430
+so returns the window so I'm gonna call
+it see hates is going to be a clear
+
+68
+00:06:34,430 --> 00:06:35,530
+winner
+
+69
+00:06:35,529 --> 00:06:45,859
+eco switch capital any pipi to switch
+cap no change color inside the Audi and
+
+70
+00:06:45,860 --> 00:06:50,330
+we're going to search for the app click
+here as I believe it's called so the
+
+71
+00:06:50,329 --> 00:06:55,810
+name of the winter cold could hear the
+capital C and Hayden has a space in 2008
+
+72
+00:06:55,810 --> 00:06:56,990
+so quick
+
+73
+00:06:56,990 --> 00:07:08,500
+space heroes postcards so now that we've
+switched the app we can do a while so
+
+74
+00:07:08,500 --> 00:07:19,180
+while now she hates to cook cooking
+years . has windows so while the window
+
+75
+00:07:19,180 --> 00:07:32,430
+visible for years and we're running I'm
+going to repeat occurred right the first
+
+76
+00:07:32,430 --> 00:07:36,519
+thing we want to do is we want to click
+because the game revolves heavily right
+
+77
+00:07:36,519 --> 00:07:46,919
+clicking the first thing we want to do
+so would do if I should click for so
+
+78
+00:07:46,920 --> 00:07:53,439
+very well for is greater than those
+clicks but we still need to do then
+
+79
+00:07:53,439 --> 00:08:02,540
+we're going to have actually what we'll
+do is just click of a button click the
+
+80
+00:08:02,540 --> 00:08:08,879
+home button and we want to have over
+something that we can use to click on so
+
+81
+00:08:08,879 --> 00:08:12,750
+we work on these enemies here but this
+ground changes and if you remember when
+
+82
+00:08:12,750 --> 00:08:17,410
+clean through before the grand changes
+to different patterns so we can't really
+
+83
+00:08:17,410 --> 00:08:23,939
+pick anything on this ground here to try
+the health public health also changes so
+
+84
+00:08:23,939 --> 00:08:27,420
+what's something that doesn't change in
+this area but we've got the mute button
+
+85
+00:08:27,420 --> 00:08:35,029
+down so if we have a muted or muted we
+can keep it muted and select this area
+
+86
+00:08:35,029 --> 00:08:35,379
+here
+
+87
+00:08:35,379 --> 00:08:39,669
+unchanging throughout the whole the
+entirety of the game so it will fit this
+
+88
+00:08:39,669 --> 00:08:44,799
+area and then will offset it from that
+and click on the screen and we will see
+
+89
+00:08:44,799 --> 00:08:52,469
+how it goes now so we want to have one
+suspect but struggled over a mute button
+
+90
+00:08:52,470 --> 00:09:00,529
+yeah we know what we want to do is be
+want to check its similarity and set a
+
+91
+00:09:00,529 --> 00:09:07,019
+target I'll set it up to a matching
+preview and we can see its matching
+
+92
+00:09:07,019 --> 00:09:11,000
+twice down here so we want to bump up a
+similarity is made so it's only being
+
+93
+00:09:11,000 --> 00:09:20,620
+shown once again so I gotta at a value
+of 86 percent similarity it apply all
+
+94
+00:09:20,620 --> 00:09:27,100
+set and as you can see was Indian in
+high detail down here the button with
+
+95
+00:09:27,100 --> 00:09:32,889
+the scroll wheel and we want to click on
+the enemy so when I click around here so
+
+96
+00:09:32,889 --> 00:09:37,610
+a massive offset from a button but we
+know that this money I'm gonna move out
+
+97
+00:09:37,610 --> 00:09:46,360
+so it always look on the enemy by ok
+with that setup
+
+98
+00:09:46,360 --> 00:09:52,759
+hovering over the top of our enemy you
+know that I masses hovering over the top
+
+99
+00:09:52,759 --> 00:10:04,090
+of the enemy we can start clicking so
+while should click for is greater than 0
+
+100
+00:10:04,090 --> 00:10:16,570
+and and running so here's a running the
+bailout if I'm it clicks we are going to
+
+101
+00:10:16,570 --> 00:10:17,590
+mass
+
+102
+00:10:17,590 --> 00:10:28,830
+down to the capital D the capital B
+button . capital L EFT so again I click
+
+103
+00:10:28,830 --> 00:10:36,440
+down the left mouse button close-up of
+brackets then we're going to mass now
+
+104
+00:10:36,440 --> 00:10:39,130
+left button said button
+
+105
+00:10:39,129 --> 00:10:43,120
+. left and left us all in capitals
+
+106
+00:10:43,120 --> 00:10:48,429
+all right click the mouse down months
+and lifted the mouse button up we can
+
+107
+00:10:48,429 --> 00:10:57,250
+say that was quick runs so should click
+for can now minus equal one so we can
+
+108
+00:10:57,250 --> 00:11:03,049
+remove one from the total amount of
+clicks and that will allow all linked to
+
+109
+00:11:03,049 --> 00:11:11,370
+end so outside of that while now we're
+going to go back to a fast if mine and
+
+110
+00:11:11,370 --> 00:11:13,220
+this time we're going to do
+
+111
+00:11:13,220 --> 00:11:24,009
+time to dead check and whether we should
+move on to the next area sir if time to
+
+112
+00:11:24,009 --> 00:11:34,069
+head is greater than or equal to two so
+if we are able to upgrade twice without
+
+113
+00:11:34,070 --> 00:11:45,460
+missing an upgrade quick psycho and not
+exists and thing that we want to check
+
+114
+00:11:45,460 --> 00:11:47,850
+if it doesn't exists
+
+115
+00:11:47,850 --> 00:11:56,370
+take a screenshot of clothes blankets
+and clothes them and yes thing we want
+
+116
+00:11:56,370 --> 00:12:01,110
+to check for is that skull so we're
+going to take a screenshot I'm gonna
+
+117
+00:12:01,110 --> 00:12:04,759
+pick the skull and because the back
+banks can change we're going to try and
+
+118
+00:12:04,759 --> 00:12:09,629
+stay inside the confines of the skull
+and get enough detail that we can pick
+
+119
+00:12:09,629 --> 00:12:15,570
+it out later on but they're still image
+of the skull him he wanted to make sure
+
+120
+00:12:15,570 --> 00:12:22,140
+that we definitely have the skulls
+similarity matching preview showing up a
+
+121
+00:12:22,139 --> 00:12:25,230
+couple of times even getting picked up
+here against to clients who want to
+
+122
+00:12:25,230 --> 00:12:30,950
+boost up that similarity to maybe
+something around 88% by
+
+123
+00:12:30,950 --> 00:12:35,360
+we don't need to do anything about it so
+upset because we just need another
+
+124
+00:12:35,360 --> 00:12:37,190
+exists
+
+125
+00:12:37,190 --> 00:12:45,460
+alright so now that we've got that if
+statement because collin next line and
+
+126
+00:12:45,460 --> 00:12:56,110
+now we want to click Next Next area so
+we're going to click and the next area
+
+127
+00:12:56,110 --> 00:13:01,789
+appears next to the center of current
+area so something that doesn't change is
+
+128
+00:13:01,789 --> 00:13:09,649
+this our purpose here on the right to
+put this in coming to check its matching
+
+129
+00:13:09,649 --> 00:13:15,289
+some similarity picking up the other
+direction as well so its first set up so
+
+130
+00:13:15,289 --> 00:13:22,860
+it's only getting the one side 85% by
+target all set and resume out again with
+
+131
+00:13:22,860 --> 00:13:29,110
+the scroll wheel and we want to pick the
+next concern along for mac online so we
+
+132
+00:13:29,110 --> 00:13:31,440
+want to click in this empty space here
+
+133
+00:13:31,440 --> 00:13:38,360
+fly ok so now we've got a click setup
+this so click and move on to the next
+
+134
+00:13:38,360 --> 00:13:44,800
+area when we move on to the next area we
+want to make sure we set out time to
+
+135
+00:13:44,799 --> 00:13:52,209
+head back to their and up to the next
+area when when there's no enemies left
+
+136
+00:13:52,210 --> 00:13:57,090
+tackle in this area right so come back
+to help us if line again for a little
+
+137
+00:13:57,090 --> 00:14:03,750
+bit of white space in their little bit
+easier aid if and we're going to do it
+
+138
+00:14:03,750 --> 00:14:08,070
+just for an upgrade now so before I like
+aids with the check that had decided to
+
+139
+00:14:08,070 --> 00:14:11,020
+be a highlight of Blues so we're gonna
+need to play our game a little bit you
+
+140
+00:14:11,019 --> 00:14:23,389
+click on a few times get out first
+upgrade available right now that we've
+
+141
+00:14:23,389 --> 00:14:30,610
+got an upgrade available we can now try
+and match that if exists
+
+142
+00:14:30,610 --> 00:14:37,639
+little screenshot here and I want to
+select a sketch of this bit of this and
+
+143
+00:14:37,639 --> 00:14:42,000
+we don't want to get the coins because
+the coins will change so let's get to
+
+144
+00:14:42,000 --> 00:14:43,789
+see eg 0
+
+145
+00:14:43,789 --> 00:14:53,139
+little blue section him and if it does
+exist to make sure simpson similarities
+
+146
+00:14:53,139 --> 00:14:54,590
+alright
+
+147
+00:14:54,590 --> 00:15:03,389
+open that up a few matches going on so
+that boosted up a bit to say haiti's 88%
+
+148
+00:15:03,389 --> 00:15:18,980
+by ok so if that exists then we won a
+set should I upgrade to true so we're
+
+149
+00:15:18,980 --> 00:15:23,940
+now setting out should I upgrade to
+search and once we know that we should
+
+150
+00:15:23,940 --> 00:15:35,190
+upgrade we're going to click click click
+but it up during the massive delay that
+
+151
+00:15:35,190 --> 00:15:47,010
+you click the Upgrade button who are
+slick same copy pasted that actually
+
+152
+00:15:47,009 --> 00:15:57,899
+might do that in fact copy paste image
+from up here they said in so every save
+
+153
+00:15:57,899 --> 00:15:59,990
+up in space
+
+154
+00:15:59,990 --> 00:16:04,840
+maxis correctly yep I mean to say that I
+offset somewhere in the middle button
+
+155
+00:16:04,840 --> 00:16:09,210
+make sure the way we're hitting it right
+so quickly and upgrades that will
+
+156
+00:16:09,210 --> 00:16:18,139
+upgrade and we want to set out time to
+Dead two plus two equals one so we were
+
+157
+00:16:18,139 --> 00:16:26,059
+able to upgrade successfully and there
+wasn't any missed upgrades
+
+158
+00:16:26,059 --> 00:16:34,559
+up on me when I set out clothes for this
+statement
+
+159
+00:16:34,559 --> 00:16:37,709
+else colon
+
+160
+00:16:37,710 --> 00:16:42,160
+if the pattern was to not exist for the
+upgrade then we want to tell it to
+
+161
+00:16:42,159 --> 00:16:49,899
+either set the time to time to deadly
+kozyrev there is no upgrade if it does
+
+162
+00:16:49,899 --> 00:16:56,439
+exist did exist at some point then we
+want to set our clocks back up and said
+
+163
+00:16:56,440 --> 00:17:06,450
+I upgrade to false alright so if not
+should I upgrade so if it didn't exist
+
+164
+00:17:06,450 --> 00:17:15,170
+after doing a spatter beauty clinics and
+we want to set our time to head to equal
+
+165
+00:17:15,170 --> 00:17:20,740
+there're so we failed to achieve an
+upgrade in the amount I'm bookmarking
+
+166
+00:17:20,740 --> 00:17:32,180
+and will said I should upgrade to echo
+thoughts after that so there wasn't any
+
+167
+00:17:32,180 --> 00:17:36,970
+upgrades existing you want to set to
+FALSE then we want to set our should
+
+168
+00:17:36,970 --> 00:17:45,900
+click for 250 and her back up to 50
+times alright so this should be enough
+
+169
+00:17:45,900 --> 00:17:51,350
+for us to start seeing how things are
+working so let's save this call it click
+
+170
+00:17:51,349 --> 00:17:55,769
+click Save
+
+171
+00:17:55,769 --> 00:18:00,069
+we're going to click on the enemies
+until there's none left in the burned or
+
+172
+00:18:00,069 --> 00:18:07,950
+until his upgrades available and let's
+give it a shot so saved from the start
+
+173
+00:18:07,950 --> 00:18:16,390
+clicking will do its 50 clicks and might
+lose a few clicks here on that just to
+
+174
+00:18:16,390 --> 00:18:24,120
+leave because of its interaction with
+the game and i mean upgrade
+
+175
+00:18:24,119 --> 00:18:27,859
+like we've got a similarity issue I'm
+trying to upgrade things that an
+
+176
+00:18:27,859 --> 00:18:36,678
+upgradeable so it's Kontrol f1 and have
+a look at what it might be
+
+177
+00:18:36,679 --> 00:18:43,960
+ok so the issue was that the image that
+I was trying to find two similar to the
+
+178
+00:18:43,960 --> 00:18:50,139
+one selected image so let's say this I
+just freaked recapture the image using a
+
+179
+00:18:50,138 --> 00:18:57,079
+little bit more background so let's give
+this a shot instead rerun
+
+180
+00:18:57,079 --> 00:19:11,918
+click and wanted guns clicking should I
+upgrade to upgrade again as it still
+
+181
+00:19:11,919 --> 00:19:18,749
+available by clicking must have missed
+it when I was doing its hopes relations
+
+182
+00:19:18,749 --> 00:19:31,669
+stunts clicking the area's complete
+upgrades grades are all done should
+
+183
+00:19:31,669 --> 00:19:37,519
+moves to the next area which already has
+done and that's pretty cool so we've got
+
+184
+00:19:37,519 --> 00:19:45,019
+a lot of what he now it's clicking and
+it's doing it's upgrading and going back
+
+185
+00:19:45,019 --> 00:19:51,359
+to clicking ones not grades to do I'm
+moving on to the next one is two one
+
+186
+00:19:51,359 --> 00:19:53,648
+problem with that book currently
+
+187
+00:19:53,648 --> 00:19:58,589
+probably fall on its head in the next
+area possibly on the next on the level
+
+188
+00:19:58,589 --> 00:20:02,769
+10 zone and this is because every five
+levels in clicking here is this a boss
+
+189
+00:20:02,769 --> 00:20:09,298
+has a timed clicking event which means I
+but needs to be out of killing quick
+
+190
+00:20:09,298 --> 00:20:14,269
+enough to be a move on to the next time
+I'm doesn't then ok but keep repeating
+
+191
+00:20:14,269 --> 00:20:17,929
+the same thing over and over again which
+will get a stuck in a loop but we can't
+
+192
+00:20:17,929 --> 00:20:23,740
+win so we need to build that into our
+system so as you can see the time going
+
+193
+00:20:23,740 --> 00:20:30,859
+down now in the middle of the game and
+we're not doing enough damage actually
+
+194
+00:20:30,859 --> 00:20:38,798
+might actually be doing enough damage to
+be at this time however as you said
+
+195
+00:20:38,798 --> 00:20:47,519
+times going down and running out of time
+and we don't get to kill it in time
+
+196
+00:20:47,519 --> 00:20:53,839
+probably 10 times up it keeps repeating
+over and over again I'm gonna get stuck
+
+197
+00:20:53,839 --> 00:20:59,779
+in a loop so we need to combat this when
+there's a bus visible we need to make
+
+198
+00:20:59,779 --> 00:21:02,730
+sure we can go back to the previous
+level if we haven't upgraded enough
+
+199
+00:21:02,730 --> 00:21:13,759
+rights and the script hell yeah I mean
+to put in a bus check so I'm gonna come
+
+200
+00:21:13,759 --> 00:21:20,690
+up here and create another variable
+coach bus and bus going to start a false
+
+201
+00:21:20,690 --> 00:21:28,320
+and down the very bottom when we're
+checking out often or upgrades exist and
+
+202
+00:21:28,319 --> 00:21:32,500
+we're talking again we're going to put a
+check in to make sure there's no bus or
+
+203
+00:21:32,500 --> 00:21:37,690
+there is the bus we should click for
+longer or go back to a previous level if
+
+204
+00:21:37,690 --> 00:21:47,670
+we're not able to kill a quick enough
+right so if exists just again but it
+
+205
+00:21:47,670 --> 00:21:54,450
+exists screenshot and we want to capture
+this clock he also want to try and stay
+
+206
+00:21:54,450 --> 00:22:04,330
+inside the edges of the clock and keep
+an update how that we can match to it so
+
+207
+00:22:04,329 --> 00:22:12,990
+if the clock exists it does I met you
+preview pretty similar I was buffed up
+
+208
+00:22:12,990 --> 00:22:26,808
+two studs to make sure it around 90% why
+so if it exists and it's not currently
+
+209
+00:22:26,808 --> 00:22:40,808
+boss demi 12 said should click for eco
+hundred and fifty quicks three times and
+
+210
+00:22:40,808 --> 00:22:46,548
+no amount which should be enough to take
+out a boss in terms of a share and then
+
+211
+00:22:46,548 --> 00:22:51,619
+we're gonna set out boss variable to
+equal true with a capital T
+
+212
+00:22:51,619 --> 00:22:56,939
+alright we want and I'll if
+
+213
+00:22:56,940 --> 00:23:19,440
+else if exists how fast i'ma bust time
+and its similarity that exists and we
+
+214
+00:23:19,440 --> 00:23:22,690
+want to do you al
+
+215
+00:23:22,690 --> 00:23:27,798
+go back to levels are unable to kill the
+bus and we've run out of clicks then we
+
+216
+00:23:27,798 --> 00:23:34,509
+want to go back to the previous low to
+get stronger so we're going to click and
+
+217
+00:23:34,509 --> 00:23:38,720
+we want to copy how click from the
+foreword by clicking on the Next Iron
+
+218
+00:23:38,720 --> 00:23:48,528
+Man copy this whole line actually come
+down to where we're clicking and this
+
+219
+00:23:48,528 --> 00:23:52,868
+time we want to change where the target
+of cities so instead of clicking on the
+
+220
+00:23:52,868 --> 00:23:59,949
+right hand side back on the left to go
+back to level ply ok so once you've
+
+221
+00:23:59,950 --> 00:24:05,649
+clicked the bus to go there are no
+longer on the bus level and the previous
+
+222
+00:24:05,648 --> 00:24:11,959
+alright so this should keep going over
+to get strong after defeat the boss but
+
+223
+00:24:11,960 --> 00:24:19,429
+save this and come back two years and
+then go back to the previous sign them
+
+224
+00:24:19,429 --> 00:24:29,929
+over now script so hit run the sense
+that clicking
+
+225
+00:24:29,929 --> 00:24:37,649
+should upgrade and then she moves up to
+the next level to be a bus level it
+
+226
+00:24:37,648 --> 00:24:45,089
+should at least have his grades won't be
+strong enough so we need to get to
+
+227
+00:24:45,089 --> 00:24:51,019
+upgrades in a row of clicking before we
+can go up to the next Sun so that
+
+228
+00:24:51,019 --> 00:24:58,929
+upgrade should take it to the next Sun
+Sweden fail I'm on the bus should
+
+229
+00:24:58,929 --> 00:25:15,820
+preprocessing that our bus 150 times
+
+230
+00:25:15,819 --> 00:25:23,480
+we defeat the bus this time and continue
+fighting it on the next time you get all
+
+231
+00:25:23,480 --> 00:25:29,410
+out cold though try upgrading and should
+move on to the next Sun should we have
+
+232
+00:25:29,410 --> 00:25:37,779
+failed however it would have moved back
+to the previous son how to move the
+
+233
+00:25:37,779 --> 00:25:44,829
+stuff to the next Sun cuz we haven't
+gotten to upwards so this may pose a
+
+234
+00:25:44,829 --> 00:25:52,369
+possible issue depending on how come
+back his own things that were not fit
+
+235
+00:25:52,369 --> 00:26:09,250
+enough to achieve getting stronger
+
+236
+00:26:09,250 --> 00:26:19,210
+up to the bus
+
+237
+00:26:19,210 --> 00:26:24,950
+anyway start to get the point should
+continue to repeat this process until we
+
+238
+00:26:24,950 --> 00:26:31,980
+move through the game called so I ended
+here and that's a script completed
+
+239
+00:26:31,980 --> 00:26:37,919
+awesome ok that's it for this series I
+encourage you to explore the
+
+240
+00:26:37,919 --> 00:26:41,960
+documentation if there's a specific task
+is to complete with single yet and not
+
+241
+00:26:41,960 --> 00:26:45,850
+sure if the feature exists I wish you
+well with your newfound automation power
+
+242
+00:26:45,849 --> 00:26:49,240
+you have any questions leave it in the
+comments and I'll try to answer is
+
+243
+00:26:49,240 --> 00:26:52,538
+Best's possible don't forget to
+subscribe thanks for watching
+

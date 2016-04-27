@@ -1,0 +1,713 @@
+1
+00:00:00,000 --> 00:00:05,790
+Привет
+
+2
+00:00:05,790 --> 00:00:10,460
+the user interface of the securely Xie
+and create a first basic automation
+
+3
+00:00:10,460 --> 00:00:16,730
+script everybody all slideshows anchored
+available in the description text comes
+
+4
+00:00:16,730 --> 00:00:20,670
+with its own integrated development
+environment IDE for short which is
+
+5
+00:00:20,670 --> 00:00:24,720
+incredibly powerful with buns you can
+click to write the card for you it's not
+
+6
+00:00:24,719 --> 00:00:28,419
+everything school X has to offer but
+it's very nice forgiveness and novice
+
+7
+00:00:28,420 --> 00:00:31,868
+programmers to start learning and have
+fun while doing it
+
+8
+00:00:31,868 --> 00:00:35,700
+TX has several different types of things
+that can try and match look for when
+
+9
+00:00:35,700 --> 00:00:41,530
+it's trying to use its functions we
+refer to them as PSM are standing for
+
+10
+00:00:41,530 --> 00:00:46,989
+patent string match region and location
+this is fairly straightforward but the
+
+11
+00:00:46,988 --> 00:00:51,839
+main one we're going to focus on is the
+patent object patents will be the main
+
+12
+00:00:51,840 --> 00:00:56,070
+way that he tells the Kodiaks what to
+interact with patent object contains
+
+13
+00:00:56,070 --> 00:00:59,929
+several pieces of information that we
+use in our school the ex programs these
+
+14
+00:00:59,929 --> 00:01:05,459
+are an image the size of the image
+similarity value and a target offset so
+
+15
+00:01:05,459 --> 00:01:07,769
+now you have to remember that its stores
+any image
+
+16
+00:01:07,769 --> 00:01:13,060
+all right let's get on to creating
+something let's create a simple
+
+17
+00:01:13,060 --> 00:01:17,728
+automation script that opens up the
+calculator app and add 1+1 together they
+
+18
+00:01:17,728 --> 00:01:22,450
+should get a comfortable with the basics
+of securely acts right so it's come over
+
+19
+00:01:22,450 --> 00:01:27,030
+to ask the XID so this is a great idea
+looks like and you get this from running
+
+20
+00:01:27,030 --> 00:01:34,950
+the run school ext cmd and I just
+collects photo a certain stone and you
+
+21
+00:01:34,950 --> 00:01:39,978
+up since it depends on May 14 need to
+focus on is over here on the left we've
+
+22
+00:01:39,978 --> 00:01:46,200
+got to find find all wait wait vanish
+exists and click double click right
+
+23
+00:01:46,200 --> 00:01:50,629
+click and drag drop is also a keyboard
+actions that you can drop to hit the
+
+24
+00:01:50,629 --> 00:01:55,420
+drop-down forward just type in the text
+on a type of this all start typing keys
+
+25
+00:01:55,420 --> 00:02:00,349
+on your keyboard type this sucks an
+image then tries to text into it and
+
+26
+00:02:00,349 --> 00:02:06,438
+paste texts based things into a
+different field alright let's get onto
+
+27
+00:02:06,438 --> 00:02:11,419
+first we need to go through the steps
+that we would go through to open up
+
+28
+00:02:11,419 --> 00:02:13,359
+after Sir
+
+29
+00:02:13,360 --> 00:02:17,630
+I would go down to the start i cant stop
+then under the search programs and files
+
+30
+00:02:17,629 --> 00:02:25,340
+our tight calculator calculator and then
+enter that would run the calculator and
+
+31
+00:02:25,340 --> 00:02:31,759
+inside the calculator I wanted to do but
+one plus one type 1+1 equals and we get
+
+32
+00:02:31,759 --> 00:02:37,659
+the answer script has been under so much
+in advance to start with but let's give
+
+33
+00:02:37,659 --> 00:02:42,430
+it a go anyway and you'll find it's not
+as hard as it looks right the first time
+
+34
+00:02:42,430 --> 00:02:48,590
+I do is win a click this stop so to do
+that what we do is click the little
+
+35
+00:02:48,590 --> 00:02:54,090
+camera icon next to click and then asked
+us to select an image on screen click
+
+36
+00:02:54,090 --> 00:03:03,430
+the star icon Stryker bucks over it'll
+pop up click the Start icon vest
+
+37
+00:03:03,430 --> 00:03:08,439
+instruction want to click the INS the
+stop button now an interesting thing is
+
+38
+00:03:08,439 --> 00:03:15,840
+that was a delayed for the animation
+when you click so you want to make sure
+
+39
+00:03:15,840 --> 00:03:21,830
+it waits for this search field so to do
+this but we're going to do is going to
+
+40
+00:03:21,830 --> 00:03:26,019
+use the wait command I'm going to click
+through the camera again but this time
+
+41
+00:03:26,019 --> 00:03:29,489
+I'm you click it we gotta make sure he
+quickly click the star concert Quick
+
+42
+00:03:29,489 --> 00:03:34,709
+Start icon and then we get this section
+him and what we do is when I look for
+
+43
+00:03:34,709 --> 00:03:40,620
+this search so to do this we're going to
+drag a box over the whole thing with
+
+44
+00:03:40,620 --> 00:03:47,799
+this bill I cannot be recognized and
+wait for this to come up on screen once
+
+45
+00:03:47,799 --> 00:03:57,110
+it has appeared so we're going to type
+some text so we are type type tell
+
+46
+00:03:57,110 --> 00:04:04,670
+clothes quotes + key with a capital K
+
+47
+00:04:04,669 --> 00:04:06,289
+dark
+
+48
+00:04:06,289 --> 00:04:13,729
+and tough with a capital and so that all
+type a calculator to press the key and
+
+49
+00:04:13,729 --> 00:04:23,719
+cool so once thats typed in you want to
+wait for the calculated to appear on
+
+50
+00:04:23,720 --> 00:04:32,440
+screen so its open up and did a
+calculator calculator image is gonna
+
+51
+00:04:32,439 --> 00:04:41,160
+come over the IDE I'm going to wait and
+wait for this calculated to appear on
+
+52
+00:04:41,160 --> 00:04:51,150
+screen so let's just wait to this number
+pad to come up there is no wait until it
+
+53
+00:04:51,149 --> 00:04:56,228
+sees a number pad on screen and then
+once the notepad there we want to start
+
+54
+00:04:56,228 --> 00:05:02,379
+clicking buttons let's click click the
+camera and we want to click the one
+
+55
+00:05:02,379 --> 00:05:13,310
+button who dragged over the one and then
+we want to click the + button drag of
+
+56
+00:05:13,310 --> 00:05:26,139
+the plus and then we want to click one
+button again so drag of the one and then
+
+57
+00:05:26,139 --> 00:05:30,490
+we want to click on the equal sign so
+driver the equal sign
+
+58
+00:05:30,490 --> 00:05:35,530
+all right sir this is our instructions
+to run so we're going to click the start
+
+59
+00:05:35,529 --> 00:05:41,469
+button wait until the search pops up
+type in calculating calc and press Enter
+
+60
+00:05:41,470 --> 00:05:49,400
+I'm gonna wait until the calculator
+appears then click 1+1 equals and yeah
+
+61
+00:05:49,399 --> 00:05:55,408
+that's it should run actually get a redo
+this a cosine that looks like my mouse
+
+62
+00:05:55,408 --> 00:06:01,259
+is hovering over top so we just delete
+things back spacing and we want to click
+
+63
+00:06:01,259 --> 00:06:06,478
+again and wait for the images pop up and
+then I'm gonna try over the top of this
+
+64
+00:06:06,478 --> 00:06:13,408
+a cosine make sure that the correct
+awesome so let's give it a shot so we're
+
+65
+00:06:13,408 --> 00:06:18,430
+going to save this as we need say but
+before he can run it so it can look at a
+
+66
+00:06:18,430 --> 00:06:19,629
+photo I'm gonna
+
+67
+00:06:19,629 --> 00:06:27,170
+domestically X folder and might even
+create a subfolder called scripts so
+
+68
+00:06:27,170 --> 00:06:36,720
+inside the scripts photo we're gonna
+save it so thats kool let's call it out
+
+69
+00:06:36,720 --> 00:06:43,980
+calc but that's gonna save it and
+renamed up here in those show you where
+
+70
+00:06:43,980 --> 00:06:48,420
+it's stored and make it run so I'm gonna
+close the calculator because otherwise
+
+71
+00:06:48,420 --> 00:06:54,230
+it will cause issues and that's it run
+run it'll take over and start automating
+
+72
+00:06:54,230 --> 00:07:06,069
+as you can say I mean it to a script has
+ended its run all successfully we have a
+
+73
+00:07:06,069 --> 00:07:13,659
+look at it and given us the answer to
+what now it's interesting to see how
+
+74
+00:07:13,660 --> 00:07:17,760
+school exs storing the information that
+we give it let's have a look at how you
+
+75
+00:07:17,759 --> 00:07:20,959
+might start to figure out how
+schoolyards works plus it might
+
+76
+00:07:20,959 --> 00:07:25,419
+highlight an issue with our efficiency
+rights over come back over to a folder
+
+77
+00:07:25,420 --> 00:07:29,870
+where restoring files so we created the
+scripts folder called a calc so it's
+
+78
+00:07:29,870 --> 00:07:34,009
+inside here we noticed that it's got an
+image for each one of those screenshots
+
+79
+00:07:34,009 --> 00:07:41,829
+that he took it is a little insufficient
+especially when these two identical
+
+80
+00:07:41,829 --> 00:07:43,919
+images
+
+81
+00:07:43,920 --> 00:07:49,650
+all right sir we can also see that
+there's a calcutta HTML file and a calc
+
+82
+00:07:49,649 --> 00:07:56,560
+top I file so we can open things up so I
+could step up and say see motile up in
+
+83
+00:07:56,560 --> 00:08:03,209
+my head up and you can say it's just a
+bunch of HTML occurred with the names of
+
+84
+00:08:03,209 --> 00:08:10,779
+curt and I pictures and this is what
+school years is to make this images in
+
+85
+00:08:10,779 --> 00:08:16,469
+the editor so this is a text email
+however the card that actually gets run
+
+86
+00:08:16,470 --> 00:08:24,130
+we can close this folder is the pie
+files in this back this up in Petoskey
+
+87
+00:08:24,129 --> 00:08:29,329
+us we can see some cardio search inside
+this current budget cuts and click on
+
+88
+00:08:29,329 --> 00:08:33,000
+image to click and all these functions
+who can too
+
+89
+00:08:33,000 --> 00:08:42,269
+securely to serve as you can see we do
+have some deficiencies with these
+
+90
+00:08:42,269 --> 00:08:48,079
+tickets and I think it could be made
+much more efficient ok so now that we
+
+91
+00:08:48,080 --> 00:08:51,850
+have no idea about how to co-exist
+storing images in separate files let's
+
+92
+00:08:51,850 --> 00:08:56,259
+talk about the last two features of a
+pat similarity and target offset
+
+93
+00:08:56,259 --> 00:09:00,740
+currently we haven't taken advantage of
+these two features as we've just use the
+
+94
+00:09:00,740 --> 00:09:06,769
+basic image image selection similarity
+is a decimal value between 0 and one but
+
+95
+00:09:06,769 --> 00:09:12,840
+it's actually a percentage for example
+0.5% similarity you can think of a
+
+96
+00:09:12,840 --> 00:09:17,970
+sensitivity 50% be something about 50%
+the same as what you looking for click
+
+97
+00:09:17,970 --> 00:09:25,259
+that if a similarity 0.1% if we find
+anything that looks about 10% the same
+
+98
+00:09:25,259 --> 00:09:30,330
+as what we're looking for click it then
+we have target offset simply this is the
+
+99
+00:09:30,330 --> 00:09:34,790
+point to click on the image is the dayy
+DAX offset from the center of the image
+
+100
+00:09:34,789 --> 00:09:38,449
+this will be immediately obvious once we
+have a look at it
+
+101
+00:09:38,450 --> 00:09:44,710
+all right let's modify a script to use
+less than half the images were used
+
+102
+00:09:44,710 --> 00:09:51,150
+before by using offset will also have a
+fiddle with similarity alright let's
+
+103
+00:09:51,149 --> 00:09:57,889
+come back over to guard him so we don't
+need to change out first thing we
+
+104
+00:09:57,889 --> 00:10:02,500
+definitely when I click the Stop button
+and we didn't want to such talk but we
+
+105
+00:10:02,500 --> 00:10:08,980
+can start to change this weight section
+here so what we can do is let's remove
+
+106
+00:10:08,980 --> 00:10:17,289
+these images were gonna get rid of that
+that that that you get rid of all of
+
+107
+00:10:17,289 --> 00:10:25,860
+this I'm going to reset up a calculator
+so far back up inside a calculator we
+
+108
+00:10:25,860 --> 00:10:31,190
+noticed that the plus the one the plus
+and the Eagles bonds are all in this one
+
+109
+00:10:31,190 --> 00:10:41,800
+section of the area so we can do is
+reaching our wait for this section to
+
+110
+00:10:41,799 --> 00:10:48,519
+appear on screen so this section has all
+of the things that we need in it and
+
+111
+00:10:48,519 --> 00:10:52,629
+what we can do is we can grab the image
+copy it
+
+112
+00:10:52,629 --> 00:10:59,389
+beacon type click open brackets based in
+our image and clothes blankets then we
+
+113
+00:10:59,389 --> 00:11:00,490
+can click on this image
+
+114
+00:11:00,490 --> 00:11:07,459
+I'm gonna tell we can have a look at a
+matching PVC this is a similarity to
+
+115
+00:11:07,458 --> 00:11:13,269
+inside the similarity can see that the
+more I start to make it similar to more
+
+116
+00:11:13,269 --> 00:11:19,110
+objects appear on screen shots to get
+pretty ridiculous so wanna keep that a
+
+117
+00:11:19,110 --> 00:11:24,720
+relatively high sensitivity rates are
+around 75% to me when you look at Target
+
+118
+00:11:24,720 --> 00:11:30,180
+offset so inside a target all set we can
+tell it where we want to click so what
+
+119
+00:11:30,179 --> 00:11:36,029
+we can do is we can say hey click the
+one button so you just click inside of
+
+120
+00:11:36,029 --> 00:11:40,319
+an image and all set to upset the bottom
+that place on the image
+
+121
+00:11:40,320 --> 00:11:45,120
+apply an OK and you see it has a
+similarity up the top corner and a
+
+122
+00:11:45,120 --> 00:11:49,899
+little red mark pointing to where to
+click on the image you can rinse and
+
+123
+00:11:49,899 --> 00:11:56,179
+repeat this so i cant i click click
+button just put in a Dodge image to
+
+124
+00:11:56,179 --> 00:12:01,689
+remove it and paste it on your image
+click on that and then we want to go to
+
+125
+00:12:01,690 --> 00:12:05,990
+a target all set the next hearing it
+plus another plus section of the image
+
+126
+00:12:05,990 --> 00:12:15,549
+it apply ok make it up a click again a
+star image close up the bracket press
+
+127
+00:12:15,549 --> 00:12:21,429
+one again we could have really copied
+that other than other kurds from up
+
+128
+00:12:21,429 --> 00:12:26,000
+there but what does he do it and we can
+talk click one more time
+
+129
+00:12:26,000 --> 00:12:33,860
+place tonight image was it off target
+offset to the equals button this time
+
+130
+00:12:33,860 --> 00:12:40,669
+reply ok all right so now we're using
+the same image four times so actually
+
+131
+00:12:40,669 --> 00:12:47,099
+cutting total program in half so if we
+save this get back to follow him you
+
+132
+00:12:47,100 --> 00:12:50,870
+notice that we've only got three me just
+now got the stop button
+
+133
+00:12:50,870 --> 00:12:56,089
+the search button and the calculated
+area and if we run it closed the
+
+134
+00:12:56,089 --> 00:13:05,430
+calculator fast now if we run it hit run
+and start typing coke
+
+135
+00:13:05,429 --> 00:13:08,879
+calculator an era
+
+136
+00:13:08,879 --> 00:13:20,740
+region cannot be felt
+
+137
+00:13:20,740 --> 00:13:25,110
+struggling to find the image let's give
+it one more shot or rayon it start calc
+
+138
+00:13:25,110 --> 00:13:27,000
+Evans up did find it
+
+139
+00:13:27,000 --> 00:13:34,220
+respond plus one equals so I don't know
+what they're there was maybe took too
+
+140
+00:13:34,220 --> 00:13:39,560
+long to open up so we send that it
+worked I'm were used to top the amount
+
+141
+00:13:39,559 --> 00:13:46,699
+of images making out much much smaller
+cool ok that's it for this video I'm
+
+142
+00:13:46,700 --> 00:13:49,649
+sure you can already feel the parody
+fingertips the next thing we'll be
+
+143
+00:13:49,649 --> 00:13:52,940
+looking at is conditional automation you
+have any questions leave it in the
+
+144
+00:13:52,940 --> 00:13:56,580
+comments and I'll try to answer as best
+as possible don't forget to subscribe
+
+145
+00:13:56,580 --> 00:13:57,570
+thanks for watching
