@@ -1,17 +1,16 @@
 1
 00:00:00,000 --> 00:00:05,790
 Добро пожаловать в сикуликс руководство номер два
-Основные возможности
+Основы 
 
 2
 00:00:05,790 --> 00:00:10,460
-the user interface of the securely Xie
-and create a first basic automation
+пользовательского интерфейса sekulix IDE
+и создание первого основного скрипта
 
 3
 00:00:10,460 --> 00:00:16,730
-script everybody all slideshows anchored
-available in the description text comes
+слайд сшоу можно скачать отдельно в описании к видео
 
 4
 00:00:16,730 --> 00:00:20,670
